@@ -80,7 +80,7 @@ $CompId = "69f05ac539a2b3169fac09d0"
 # Do not use the old token.
 # ------------------------------------------------------------------------------
 
-$EnrollmentToken = "<REPLACE_WITH_NEW_ENROLLMENT_TOKEN>"
+$EnrollmentToken = "cac2011afd2cf9e4ba3c1c79c6f2a3dc5995061e12526581fa74c1e4c8a1d533"
 
 # ------------------------------------------------------------------------------
 # Service ACL
